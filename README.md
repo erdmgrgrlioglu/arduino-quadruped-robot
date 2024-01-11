@@ -2,7 +2,7 @@
 
  _Quadruped spider robot powered by arduino_
 
-This project is inspired by Jason's Workshop Q1 Mini and Q1 Lite projects. The source and original stl part designs by Jason's Workshop can also be found below.
+This project sources from Jason's Workshop Q1 Mini and Q1 Lite projects. The link to original stl part designs by Jason's Workshop can also be found below.
 
 ![Robot Showcase](https://github.com/erdmgrgrlioglu/arduino-quadruped-robot/blob/main/media/robot.jpg)
 
